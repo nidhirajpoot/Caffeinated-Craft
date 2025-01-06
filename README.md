@@ -4,18 +4,23 @@
 Caffeinated Craft is a fully responsive and visually appealing coffee website designed to showcase coffee products, promote coffee culture, and enhance the user experience. Built using HTML, CSS, and JavaScript, the website offers an interactive and seamless browsing experience for coffee enthusiasts. The project is designed to be added as a highlight to your portfolio.
 
 🌟 Features
+
 🔹 Home Page
 Eye-catching hero section showcasing coffee themes and promotions.
 Smooth navigation bar with quick links to various sections.
+
 🔹 Menu Page
 A beautifully designed menu showcasing coffee products and their prices.
 Responsive layout ensures perfect viewing across all devices.
+
 🔹 About Us
 A dedicated section to highlight the story behind Caffeinated Craft.
 Engaging content to connect with coffee lovers.
+
 🔹 Contact Page
 A contact form to allow users to get in touch or provide feedback.
 Email integration to handle user inquiries effectively.
+
 🔹 Interactive Features
 Responsive Design: Adapts seamlessly to mobile, tablet, and desktop screens.
 Smooth Animations: Adds elegance to user interactions.
@@ -23,6 +28,7 @@ Functional Navbar: Easy navigation across pages with hover effects.
 JavaScript Functionality: Interactive buttons and menu toggles.
 
 🛠️ Technologies Used
+
 HTML: Structuring the website layout.
 CSS: Styling for responsiveness and aesthetics.
 Flexbox and Grid for layout management.
@@ -31,6 +37,7 @@ JavaScript: Adding interactivity and functionality.
 Dynamic navigation and user engagement features.
 
 🚀 How to Use
+
 Clone or download this repository to your local machine:
 bash
 Copy code
@@ -39,6 +46,7 @@ Open the project folder.
 Open the index.html file in your preferred browser to view the website.
 
 📂 Project Structure
+
 Caffeinated-Craft/
 ├── index.html          # Main landing page
 ├── about.html          # About Us page
@@ -72,8 +80,8 @@ Search Functionality: Add a search bar for easier navigation.
 
 👨‍💻 Author
 
-Name: nidhisinghrajpoot9@gmail.com
-Email: yourname@example.com
+Name: Nidhi Singh
+Email: nidhisinghrajpoot9@gmail.com
 LinkedIn: https://www.linkedin.com/in/nidhi-singh-rajpoot-ba4067237/
 GitHub: https://github.com/nidhirajpoot
 
